@@ -223,3 +223,11 @@ Khi độ biến động (phương sai) của chuỗi dữ liệu lớn, cả tr
 Một sai sót ở đây có thể khiến doanh nghiệp đánh giá sai tiềm năng xuất khẩu hoặc mục tiêu tăng trưởng.
 
 ![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+2)Phát triển kinh tế: 
+
+1.Thu nhập,tiêu dùng(thực phẩm,y tế,giáo dục)
+2.Lòng tự trọng,chân giá trị
+3.Tự do lựa chọn
