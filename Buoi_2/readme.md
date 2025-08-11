@@ -1,7 +1,5 @@
-10 nguyên lý Xuất khẩu
-(Nguyên lý 7)Đáp ứng tiêu chuẩn quốc tế về hàng hóa và dịch vụ (International Standards of goods & services)
-
-Xa xưa ta chỉ học để làm quan, nay học để xuất khẩu.
+Nguyên lý 7: Đáp ứng tiêu chuẩn quốc tế về hàng hóa & dịch vụ
+Xa xưa, ta học để làm quan. Nay, ta học để… xuất khẩu.
 
 ![alt text](image.png)
 
@@ -10,45 +8,218 @@ Xa xưa ta chỉ học để làm quan, nay học để xuất khẩu.
 Trung bình số học 
 Trung bình hình học
 
-Tính tăng trưởng bình quân như thế
+Trung bình số học & Trung bình hình học trong đo lường tăng trưởng
+Khi phân tích các chỉ số kinh tế – thương mại quốc tế, cách tính trung bình rất quan trọng.
+Cần phân biệt rõ:
 
-nào?
-Nguyễn Hoàng Bảo
-Khoa Kinh tế, CELG, UEH
-hoangbao@ueh.edu.vn
+Số tuyệt đối (absolute numbers) như GDP, tổng giá trị xuất khẩu, vốn đầu tư → dùng Trung bình số học.
 
-Nếu là con số tuyệt đối, chẳng hạn như GDP, đầu tư, xuất khẩu,... thì sử
-dụng trung bình số học là đúng. Nhưng là con số tương đối, chẳng hạn
-như tăng trưởng kinh tế, tăng trưởng xuất khẩu, tăng trưởng tiêu dùng, lãi
-suất, ... thì sử dụng trung bình hình học (geometric mean).
-Giả sử có số liệu tăng trưởng kinh tế trong k năm, tăng trưởng kinh tế
-trung bình trong k năm là:
+Số tương đối (tỷ lệ % thay đổi) như tăng trưởng GDP, tăng trưởng xuất khẩu, lãi suất, lạm phát → dùng Trung bình hình học (Geometric Mean).
 
-g TB = [((1+g1/100)*(1+g2/100)*…*(1+gk/100))^(1/k) -1]*100
+Công thức Trung bình hình học cho tăng trưởng bình quân
+Nếu có số liệu tăng trưởng qua 
+𝑘
+k năm: 
+𝑔
+1
+,
+𝑔
+2
+,
+…
+,
+𝑔
+𝑘
+g 
+1
+​
+ ,g 
+2
+​
+ ,…,g 
+k
+​
+  (tính theo %), thì:
 
-Ví dụ 1: Có số liệu tăng trưởng kinh tế tỉnh An Giang giai đoạn 2011-2022
-như hình vẽ (Tổng Cục Thống Kê Việt Nam, 2024). Câu hỏi đơn giản là
-tính tăng trưởng bình quân cho cả giai đoạn 2011-2022?
+𝑔
+𝑇
+𝐵
+=
+[
+(
+∏
+𝑖
+=
+1
+𝑘
+(
+1
++
+𝑔
+𝑖
+100
+)
+)
+1
+𝑘
+−
+1
+]
+×
+100
+g 
+TB
+​
+ = 
+​
+ ( 
+i=1
+∏
+k
+​
+ (1+ 
+100
+g 
+i
+​
+ 
+​
+ )) 
+k
+1
+​
+ 
+ −1 
+​
+ ×100
+Ví dụ minh họa
+Ví dụ 1 – An Giang (2011–2022)
+Nguồn: Tổng cục Thống kê Việt Nam (2024)
 
-g TB = [((1+7.3/100)*(1+(4.7/100)*…*(1+6.0/100))^(1/12) – 1]*100 = 4.76%
-Ví dụ 2: Có số liệu tăng trưởng kinh tế tỉnh Bạc Liêu giai đoạn 2011-2022
-như hình vẽ (Tổng Cục Thống Kê Việt Nam, 2024). Câu hỏi đơn giản là
-tính tăng trưởng bình quân cho cả giai đoạn 2011-2022?
+Tính tăng trưởng bình quân:
 
-Vấn đề là tăng trưởng kinh tế tỉnh Bạc Liêu năm 2020 là – 1,11%. Như vậy
-tính toán tăng trưởng bình quân cho cả giai đoạn bằng cách nào?
-Nếu tính toán như trên, tăng trưởng trung bình hình học cho cả giai đoạn
-2011-2022 ở Bạc Liêu sẽ là:
+𝑔
+𝑇
+𝐵
+=
+[
+(
+1
++
+7.3
+%
+)
+×
+(
+1
++
+4.7
+%
+)
+×
+⋯
+×
+(
+1
++
+6.0
+%
+)
+]
+1
+/
+12
+−
+1
+g 
+TB
+​
+ =[(1+7.3%)×(1+4.7%)×⋯×(1+6.0%)] 
+1/12
+ −1
+𝑔
+𝑇
+𝐵
+≈
+4.76
+%
+g 
+TB
+​
+ ≈4.76%
+Ví dụ 2 – Bạc Liêu (2011–2022)
+Vấn đề: Năm 2020, Bạc Liêu có tăng trưởng -1.11% (âm).
+Công thức Trung bình hình học vẫn áp dụng được, miễn là tổng trong ngoặc dương.
 
-g TB = [((1+5.2/100)*(1+5.0/100)*…*(1-
-1.1/100)*(1+5.0/100)*(1+9.6/100))^(1/12) – 1]*100 = 5.89%
+𝑔
+𝑇
+𝐵
+=
+[
+(
+1
++
+5.2
+%
+)
+×
+(
+1
++
+5.0
+%
+)
+×
+⋯
+×
+(
+1
+−
+1.1
+%
+)
+×
+(
+1
++
+5.0
+%
+)
+×
+(
+1
++
+9.6
+%
+)
+]
+1
+/
+12
+−
+1
+g 
+TB
+​
+ =[(1+5.2%)×(1+5.0%)×⋯×(1−1.1%)×(1+5.0%)×(1+9.6%)] 
+1/12
+ −1
+𝑔
+𝑇
+𝐵
+≈
+5.89
+%
+g 
+TB
+​
+ ≈5.89%
+Kết luận quan trọng
+Khi tính trung bình của các tỷ lệ % (tăng trưởng kinh tế, lãi suất, tỷ giá, chỉ số tài chính), luôn dùng Trung bình hình học.
 
-Kết luận:
-(1) Tính trung bình cho số tương đối, chẳng hạn như tỷ giá, lãi suất, chỉ số
-PE trên thị trường chứng khoán, tăng trưởng kinh tế, tăng trưởng xuất
-khẩu, tăng trưởng cung tiền, hay các số tương đối khác thì sử dụng
-trung bình hình học;
-(2) Phương sai của chuỗi số liệu càng lớn, thì trung bình số học hay trung
-bình hình học đều càng mất ý nghĩa.
+Khi độ biến động (phương sai) của chuỗi dữ liệu lớn, cả trung bình số học và hình học đều mất dần ý nghĩa → cần phân tích sâu hơn, không chỉ dựa vào một con số trung bình.
+
+📌 Ghi nhớ: Trong phân tích kinh tế – thương mại quốc tế, chọn đúng phương pháp tính trung bình là bước nhỏ nhưng quyết định tính chính xác của cả báo cáo.
+Một sai sót ở đây có thể khiến doanh nghiệp đánh giá sai tiềm năng xuất khẩu hoặc mục tiêu tăng trưởng.
 
 ![alt text](image-2.png)
