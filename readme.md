@@ -23,9 +23,28 @@ Buổi 1 chúng ta thực hành phân tích dữ liệu kinh tế Việt Nam v�
 <img width="3834" height="2023" alt="Kết quả buổi 1" src="https://github.com/user-attachments/assets/7b26ff19-f0bd-41a3-8571-b09a6eeac941" />
 
 ---
+## 📂 Buổi 4: Phân tích tăng trưởng kinh tế (1985–2024)
+
+### Biểu đồ
+- **Việt Nam (1985–2024):**  
+  ![alt text](vn_growth.png)
+
+- **8 quốc gia:**  
+  ![alt text](gdp_comparison.png)
+
+- **Việt Nam vs Thế giới:**  
+  ![alt text](other_countries_growth.png)
+
+### Nhận xét ngắn gọn
+- Việt Nam duy trì tăng trưởng **cao & ổn định** suốt gần 40 năm.  
+- So với nhóm 8 nước và **trung bình thế giới**, Việt Nam luôn nổi bật.  
+- Đây là minh chứng rõ rệt cho **hiệu quả của chính sách Đổi mới và hội nhập kinh tế**.  
+
+---
 
 ## 🛠 Yêu cầu môi trường
-- Python 3.10+
+- Python 3.10+  
 - Thư viện:  
   ```bash
   pip install pandas matplotlib openpyxl
+
