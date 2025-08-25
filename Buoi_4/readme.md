@@ -1,0 +1,1 @@
+- Tạo 2 thư mục growth_8 và growth_VN
