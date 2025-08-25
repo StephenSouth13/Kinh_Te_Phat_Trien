@@ -27,13 +27,13 @@ Buổi 1 chúng ta thực hành phân tích dữ liệu kinh tế Việt Nam v�
 
 ### Biểu đồ
 - **Việt Nam (1985–2024):**  
-  ![alt text](vn_growth.png)
+  ![alt text](img/vn_growth.png)
 
 - **8 quốc gia:**  
-  ![alt text](gdp_comparison.png)
+  ![alt text](img/other_countries_growth.png)
 
 - **Việt Nam vs Thế giới:**  
-  ![alt text](other_countries_growth.png)
+  ![alt text](img/gdp_comparison.png)
 
 ### Nhận xét ngắn gọn
 - Việt Nam duy trì tăng trưởng **cao & ổn định** suốt gần 40 năm.  
