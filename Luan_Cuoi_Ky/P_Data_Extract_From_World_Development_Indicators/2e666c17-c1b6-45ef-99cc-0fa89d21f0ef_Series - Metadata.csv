@@ -1,0 +1,747 @@
+Country Name,Country Code,Series Name,Series Code,2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022],2023 [YR2023]
+Viet Nam,VNM,Control of Corruption: Percentile Rank,CC.PER.RNK,40,36.6666679382324,30.4761905670166,35.238094329834,32.8571434020996,41.4285697937012,45.7142868041992,46.2264137268066,38.6792449951172
+Viet Nam,VNM,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,875.552531168736,990.989865603811,1019.90521787737,1279.73752642963,1547.48827375021,1611.24942280118,1557.98284200549,1479.21938415923,1712.76156220381
+Viet Nam,VNM,Rule of Law: Percentile Rank,RL.PER.RNK,43.3333320617676,56.1904754638672,54.761905670166,52.3809509277344,51.9047622680664,46.6666679382324,46.6666679382324,47.6415100097656,50.4716987609863
+Viet Nam,VNM,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27.8,26.8,28.3,24.3,20.4,18.9,24.2,..,..
+Viet Nam,VNM,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.377014054477,20.3304456216218,18.5797797556674,20.1630176303186,20.8317868906878,20.8010641731194,..,..,..
+Viet Nam,VNM,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,35.3964190424428,36.0290921584165,45.1716093478926,39.5259564601314,30.8673770187175,35.7344713706839,41.1697321016349,..,..
+Viet Nam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,44.8711640388917,45.8783548775157,45.9963369846492,46.2346815387217,46.4768416451573,46.7190017515929,46.9611618580284,47.203321964464,47.4454820708996
+Viet Nam,VNM,Gini index,SI.POV.GINI,..,35.3,..,35.7,..,36.8,..,36.1,..
+Viet Nam,VNM,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,81.765,81.479,82.091,82.855,81.939,80.059,78.422,79.497,79.278
+Viet Nam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.955,73.984,74.026,74.1,74.211,75.383,74.145,74.502,74.588
+Viet Nam,VNM,Regulatory Quality: Estimate,RQ.EST,-0.505210995674133,-0.502611756324768,-0.433779716491699,-0.372491270303726,-0.375260800123215,-0.236916333436966,-0.404661357402802,-0.429956316947937,-0.382607728242874
+Viet Nam,VNM,Voice and Accountability: Estimate,VA.EST,-1.35883224010468,-1.37323105335236,-1.41349077224731,-1.47091710567474,-1.40485322475433,-1.37661600112915,-1.30874562263489,-1.28640735149384,-1.24185371398926
+Viet Nam,VNM,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,679.445923972947,738.879533385899,757.479979941312,885.646841787765,987.27147244039,991.281232485165,962.199524881189,1023.0571362687,..
+Viet Nam,VNM,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.733762784722565,0.597059752522706,1.32019593836106,1.30389576930863,2.94445992972498,5.37810936985936,10.1722062845034,..,..
+Viet Nam,VNM,Methane (CH4) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CH4.ZG.AR5,54.6537823333648,52.9039649663942,52.4931903495244,54.7622310903292,54.7200491811786,51.4629936913429,55.5164489485793,54.3828600398932,54.9243054289581
+Viet Nam,VNM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,89.4548341262217,90.1583347107672,91.0725198149335,92.8377710790826,94.654621676317,93.1921389514105,92.7690209240401,93.4123434096522,..
+Viet Nam,VNM,Human capital index (HCI) (scale 0-1),HD.HCI.OVRL,..,..,0.666,0.687239348888397,..,0.689964532852173,..,..,..
+Viet Nam,VNM,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,..,6.2,..,5.2,..,3.7,..,4.2,..
+Viet Nam,VNM,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..,9.2,7.9,6.8,5.7,4.8,4.4,4.2,..
+Viet Nam,VNM,Government Effectiveness: Estimate,GE.EST,0.0631621554493904,-0.0174771249294281,-0.0333407856523991,-0.0117206163704395,0.0278810821473598,0.193557769060135,0.243436112999916,0.174635261297226,0.126466900110245
+Viet Nam,VNM,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,0.0638082250952721,0.226832523941994,0.211102172732353,0.0330829620361328,0.0399874038994312,-0.0389890633523464,-0.117782436311245,-0.0461320951581001,-0.0363807342946529
+Indonesia,IDN,Control of Corruption: Percentile Rank,CC.PER.RNK,36.6666679382324,38.0952377319336,45.238094329834,44.2857131958008,35.238094329834,36.6666679382324,36.6666679382324,37.2641525268555,36.3207550048828
+Indonesia,IDN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,216.734516764311,213.439511627648,231.143009379508,269.318424855759,293.94065455049,267.332186907754,282.825003616062,305.907099967734,316.951047792595
+Indonesia,IDN,Rule of Law: Percentile Rank,RL.PER.RNK,39.523811340332,40.476188659668,40,41.9047622680664,40.476188659668,40.476188659668,44.2857131958008,45.2830200195312,46.698112487793
+Indonesia,IDN,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.6,27.8,25.2,22,19.8,21.9,20.2,..,..
+Indonesia,IDN,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,18.6712786457665,19.1310042759597,16.9555634840925,18.4371895829409,19.4270918962783,17.8814994983985,..,..,..
+Indonesia,IDN,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,13.6593504639543,15.1437457097094,15.7714127577141,15.5999106611078,14.5841228957778,15.8206622268759,15.5300398228856,..,..
+Indonesia,IDN,Forest area (% of land area),AG.LND.FRST.ZS,50.6135490506354,50.7434545269582,50.0393338229866,49.7168177792076,49.3942964092507,49.0717803654717,48.3619448681206,48.0419900717626,47.7220336902463
+Indonesia,IDN,Gini index,SI.POV.GINI,38.2,36.9,36.4,36.3,35.4,35.3,35.5,35.5,36.1
+Indonesia,IDN,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,69.001,68.742,69.047,70.027,70.571,69.644,68.175,69.08,69.073
+Indonesia,IDN,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.52,69.733,69.953,70.08,70.349,68.817,67.452,70.925,71.146
+Indonesia,IDN,Regulatory Quality: Estimate,RQ.EST,-0.158227473497391,-0.0313757993280888,0.0279275011271238,-0.0218164678663015,0.0289513897150755,0.216156706213951,0.287561029195786,0.205959960818291,0.301378756761551
+Indonesia,IDN,Voice and Accountability: Estimate,VA.EST,0.184877097606659,0.16793267428875,0.131470382213593,0.162210986018181,0.131386235356331,0.0993008315563202,0.149332702159882,0.14396958053112,0.138982817530632
+Indonesia,IDN,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,698.660737586188,718.57953489745,755.351304203294,826.038659966956,844.870039441295,848.436766186593,896.813534898965,953.65392850686,976.949985543796
+Indonesia,IDN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,8.08662643566284,8.02110060254748,8.98691311092176,8.5965183727374,8.09560604666851,8.4805233601994,8.65237684146036,..,..
+Indonesia,IDN,Methane (CH4) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CH4.ZG.AR5,72.5735534118768,74.0999028424178,85.3040847052823,102.926170590841,109.780221157467,102.525443244006,102.295981337898,121.609470112464,136.21035297682
+Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,87.8423207929976,87.8191791728036,90.9455391241064,92.8120739600443,94.9467044891028,96.9345779132931,97.8441479813619,97.8167602714893,96.0002120295081
+Indonesia,IDN,Human capital index (HCI) (scale 0-1),HD.HCI.OVRL,..,..,0.535,0.53795725107193,..,0.540038466453552,..,..,..
+Indonesia,IDN,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,43.4,38.7,34.1,30.3,28.3,26.4,24.2,23.7,21.9
+Indonesia,IDN,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,11.2,10.9,10.6,9.8,9.4,9.8,10.1,9.5,9.4
+Indonesia,IDN,Government Effectiveness: Estimate,GE.EST,-0.325818121433258,-0.0507822521030903,-0.0197342690080404,0.141379877924919,0.138700008392334,0.31706503033638,0.346443444490433,0.436147511005402,0.58032637834549
+Indonesia,IDN,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.619956314563751,-0.379699736833572,-0.504938721656799,-0.552034020423889,-0.502143025398254,-0.462311387062073,-0.531449198722839,-0.553894221782684,-0.404375314712524
+Singapore,SGP,Control of Corruption: Percentile Rank,CC.PER.RNK,96.6666641235352,97.1428604125977,97.6190490722656,98.5714263916016,99.0476226806641,99.0476226806641,98.5714263916016,98.5849075317383,98.1132049560547
+Singapore,SGP,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,74.3786376476387,67.4152084478738,79.7814725640005,71.337390436107,76.6369019407107,70.2444372823731,75.9641938562067,76.1781080756568,80.3208397318015
+Singapore,SGP,Rule of Law: Percentile Rank,RL.PER.RNK,94.2857131958008,96.1904754638672,96.6666641235352,97.6190490722656,97.6190490722656,98.5714263916016,98.5714263916016,99.0566024780273,98.1132049560547
+Singapore,SGP,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.7,0.7,0.7,0.8,0.9,0.9,1.1,..,..
+Singapore,SGP,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,17.1833032960407,15.900294890346,16.0768840541767,15.9768571619193,17.0759063187283,13.8691955865476,..,..,..
+Singapore,SGP,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,4.17967076556922,4.59045610232792,4.27901206291037,4.11612199206036,4.17542088160238,4.08125772500843,4.02215992761209,..,..
+Singapore,SGP,Forest area (% of land area),AG.LND.FRST.ZS,23.2318758815233,22.9696755994358,22.626404494382,22.3109243697479,21.9972067039106,21.6852367688022,21.4345403899721,21.1838440111421,20.933147632312
+Singapore,SGP,Gini index,SI.POV.GINI,..,..,..,..,..,..,..,..,..
+Singapore,SGP,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,74.548,74.413,74.361,74.119,74.749,74.58,76.847,76.092,76.097
+Singapore,SGP,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,82.7439024390244,82.8463414634146,83.0951219512195,83.2975609756098,83.5951219512195,83.5439024390244,83.0926829268293,82.8951219512195,82.8951219512195
+Singapore,SGP,Regulatory Quality: Estimate,RQ.EST,2.25223541259766,2.17064332962036,2.10915470123291,2.12173795700073,2.15443754196167,2.20529913902283,2.22689867019653,2.21437835693359,2.30859136581421
+Singapore,SGP,Voice and Accountability: Estimate,VA.EST,-0.161713510751724,-0.149904429912567,-0.168806582689285,-0.0758845582604408,-0.206006988883018,-0.203881621360779,-0.13955394923687,-0.0601325668394566,-0.0654119327664375
+Singapore,SGP,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,5242.6504334371,5449.41985010808,5799.39529471808,5692.66564748734,5565.91519291042,5538.12371561154,5966.32763521289,5785.04367341681,5282.7637359991
+Singapore,SGP,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.17967076556922,4.59045610232792,4.27901206291037,4.11612199206036,4.17542088160238,4.08125772500843,4.02215992761209,..,..
+Singapore,SGP,Methane (CH4) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CH4.ZG.AR5,274.515060715975,255.779845450244,291.91767859959,291.239552121117,302.499605740419,285.096987856805,305.969090048888,322.898596435893,358.839299794985
+Singapore,SGP,"School enrollment, secondary (% gross)",SE.SEC.ENRR,..,107.745868589242,107.472873863465,105.745250914262,104.621987875083,103.115839213946,102.951274385922,103.009804103267,103.082801906213
+Singapore,SGP,Human capital index (HCI) (scale 0-1),HD.HCI.OVRL,..,..,0.884,0.887083649635315,..,0.879125714302063,..,..,..
+Singapore,SGP,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,..,..,..,..,..,..,..,..,..
+Singapore,SGP,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..,..,..,..,..,..,..,..,..
+Singapore,SGP,Government Effectiveness: Estimate,GE.EST,2.248699426651,2.21462416648865,2.22598195075989,2.23176574707031,2.2316722869873,2.28420281410217,2.24803853034973,2.14423561096191,2.31747198104858
+Singapore,SGP,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,1.29889214038849,1.47746896743774,1.59912502765656,1.46825659275055,1.48045420646667,1.43851101398468,1.44250547885895,1.44037234783173,1.42420423030853
+Thailand,THA,Control of Corruption: Percentile Rank,CC.PER.RNK,35.238094329834,39.0476188659668,41.4285697937012,39.0476188659668,35.7142868041992,35.238094329834,34.761905670166,35.8490562438965,35.8490562438965
+Thailand,THA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,193.334535734921,189.423549804068,190.400536047405,187.932327160889,198.265081314155,187.778391794868,180.492886780958,189.277793565124,187.485830710944
+Thailand,THA,Rule of Law: Percentile Rank,RL.PER.RNK,50,52.8571434020996,53.8095245361328,52.8571434020996,56.1904754638672,55.238094329834,55.238094329834,54.7169799804688,57.5471687316895
+Thailand,THA,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,22.6,22.4,22.2,23.7,23.9,20.9,19,..,..
+Thailand,THA,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,28.1544413826202,30.3985996204755,27.1006744719071,30.0080973964844,30.382756547172,31.0072016277159,..,..,..
+Thailand,THA,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,13.1383644566273,20.9233645462311,20.2627968718758,23.9614675434309,25.2454437243751,18.8002557141409,19.9307401392503,..,..
+Thailand,THA,Forest area (% of land area),AG.LND.FRST.ZS,39.2667697547417,39.1806455401358,39.1101802736401,39.0397150071444,38.9692497406487,38.8987844741529,38.8283192076572,38.7578539411615,38.6873886746658
+Thailand,THA,Gini index,SI.POV.GINI,36,36.7,36.4,36.4,34.9,35,34.9,34.3,33.5
+Thailand,THA,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,75.594,74.86,74.277,74.858,74.322,74.547,74.695,75.272,75.312
+Thailand,THA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.563,76.769,76.989,77.19,77.197,77.331,77.606,75.291,76.412
+Thailand,THA,Regulatory Quality: Estimate,RQ.EST,0.195901736617088,0.0528686940670013,0.0076168579980731,-0.0440966561436653,-0.0219450928270817,0.0636607557535172,0.0835350751876831,0.165019407868385,0.158257782459259
+Thailand,THA,Voice and Accountability: Estimate,VA.EST,-0.969038724899292,-1.022944688797,-1.04547691345215,-1.017458319664,-0.846085667610168,-0.809261918067932,-0.789397776126862,-0.620351493358612,-0.450371354818344
+Thailand,THA,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1932.67390968815,1985.00530928348,1988.13781529099,1951.8556356188,1989.81234226863,1884.35073727402,1848.06336093307,1867.46968312053,1851.27231424167
+Thailand,THA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,10.9237564959169,18.9619482005576,17.5784530448113,19.638923446039,21.8353127893136,16.1636964774532,17.2997083499576,..,..
+Thailand,THA,Methane (CH4) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CH4.ZG.AR5,5.34444165564885,8.22496685324643,7.42571255023332,4.5528383977965,-0.409610832387053,4.12008781906958,5.44073285815989,7.40733138076173,5.24581781741809
+Thailand,THA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,124.330596923828,122.563217163086,79.5062371844027,80.6045305135668,81.7206425877734,82.3668560969625,84.6644528199547,88.0661686868399,93.3356315272258
+Thailand,THA,Human capital index (HCI) (scale 0-1),HD.HCI.OVRL,..,..,0.604,0.616861402988434,..,0.609310984611511,..,..,..
+Thailand,THA,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,0.8,1,0.8,0.9,0.6,0.6,0.5,0.2,0.1
+Thailand,THA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,7.2,8.6,7.9,9.9,6.2,6.8,6.3,5.4,..
+Thailand,THA,Government Effectiveness: Estimate,GE.EST,0.238737538456917,0.22570513188839,0.257845818996429,0.254539996385574,0.260609537363052,0.201812535524368,0.220056802034378,0.127444162964821,0.171705812215805
+Thailand,THA,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.995044946670532,-0.991300225257874,-0.754879415035248,-0.799416124820709,-0.491406112909317,-0.578270494937897,-0.56877988576889,-0.393339306116104,-0.280302882194519
+Philippines,PHL,Control of Corruption: Percentile Rank,CC.PER.RNK,38.0952377319336,35.7142868041992,38.5714302062988,32.8571434020996,30.9523811340332,33.3333320617676,33.8095245361328,33.4905662536621,32.5471687316895
+Philippines,PHL,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,165.783008586836,184.834463839462,218.535916273651,231.899767009263,247.365466639109,218.953514590105,241.939037222149,253.804654177862,278.817337141354
+Philippines,PHL,Rule of Law: Percentile Rank,RL.PER.RNK,40,36.1904754638672,32.3809509277344,31.9047622680664,29.5238094329834,28.0952377319336,26.1904754638672,33.0188674926758,37.2641525268555
+Philippines,PHL,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.8,28.6,27.8,27.6,26.9,29.1,28,..,..
+Philippines,PHL,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.7079275985218,19.9069716374648,18.3327018141416,20.5885077839401,21.5254371973976,20.2887417122616,..,..,..
+Philippines,PHL,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,25.5285937898147,24.3251318876174,24.6857793790399,23.4897057054649,20.9368263218944,21.3903690236352,22.7211103754847,..,..
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,23.5239963779052,23.6410101619881,23.758023946071,23.8750041922393,23.9920179763222,24.1090317604051,24.226045544488,24.3430593285709,24.4600731126539
+Philippines,PHL,Gini index,SI.POV.GINI,44.6,..,..,42.3,..,..,40.7,..,39.3
+Philippines,PHL,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,62.954,63.197,60.949,60.799,61.331,56.681,58.501,63.462,63.476
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.45,69.49,69.966,69.761,69.68,70.097,66.675,69.472,69.833
+Philippines,PHL,Regulatory Quality: Estimate,RQ.EST,0.0541701726615429,0.112924449145794,0.127081677317619,0.0287664085626602,0.100199609994888,0.113156676292419,0.0623732283711433,0.0627855956554413,0.16425496339798
+Philippines,PHL,Voice and Accountability: Estimate,VA.EST,0.14704766869545,0.163373067975044,0.0839975401759148,0.0210947003215551,0.00574713759124279,-0.106204241514206,-0.154726296663284,-0.0548803359270096,-0.0168379731476307
+Philippines,PHL,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,499.070776259238,520.980850770081,544.47519980766,554.498283533215,551.866549795025,518.156775784154,530.987980701231,550.793803994865,..
+Philippines,PHL,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,15.0144758715251,15.3920173574017,14.5024584083925,14.0845094422838,13.3689987834894,14.322411675102,14.0338882058072,..,..
+Philippines,PHL,Methane (CH4) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CH4.ZG.AR5,33.6837904144054,36.4442757589868,41.840232264224,42.3739391401998,42.8160863321739,43.4196368132535,45.7315188342966,43.1868247962406,43.3357071029186
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,82.0085254812081,82.7837574272484,80.9227600097656,79.3622469757001,85.3821865979599,87.9419879481158,85.8666475631511,92.291271176651,91.5493424610693
+Philippines,PHL,Human capital index (HCI) (scale 0-1),HD.HCI.OVRL,..,..,0.548,0.549015581607819,..,0.51596212387085,..,..,..
+Philippines,PHL,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,30.7,..,..,21.8,..,..,21.3,..,16.9
+Philippines,PHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,23.5,..,..,16.7,..,..,18.1,..,15.5
+Philippines,PHL,Government Effectiveness: Estimate,GE.EST,0.160157755017281,0.0184973310679197,-0.0349111147224903,0.062349122017622,0.059953011572361,0.0678123831748962,0.0347901321947575,0.063930444419384,0.154091909527779
+Philippines,PHL,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.854724228382111,-1.37869036197662,-1.18929100036621,-1.09620380401611,-0.9280606508255,-0.778704285621643,-0.984022319316864,-0.655268549919128,-0.566050469875336
+Malaysia,MYS,Control of Corruption: Percentile Rank,CC.PER.RNK,60.476188659668,57.6190490722656,55.7142868041992,62.8571434020996,60.9523811340332,60.476188659668,59.0476188659668,62.2641525268555,61.7924537658691
+Malaysia,MYS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,292.610322822998,284.289756807813,269.22696022961,294.834086954362,296.147141595379,293.331812120958,301.901825920527,325.850055027529,339.791035091886
+Malaysia,MYS,Rule of Law: Percentile Rank,RL.PER.RNK,66.1904754638672,64.2857131958008,63.8095245361328,69.523811340332,67.6190490722656,68.5714263916016,68.5714263916016,68.3962249755859,67.4528274536133
+Malaysia,MYS,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.4,4.4,5.2,5.3,5.7,7,7.5,..,..
+Malaysia,MYS,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,16.9297330913892,16.3864419259472,14.9450075810201,16.6541753286852,17.8197510834605,16.1938532237922,..,..,..
+Malaysia,MYS,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,11.1401917094649,13.6711221754117,17.0431848852901,16.7095480216049,16.1811968399747,17.5710782624676,17.0004556137729,..,..
+Malaysia,MYS,Forest area (% of land area),AG.LND.FRST.ZS,59.2427940952671,58.7875209252777,58.6348805356871,58.4822401460965,58.3295997565059,58.1769593669152,58.0243189773246,57.871678587734,57.7190381981434
+Malaysia,MYS,Gini index,SI.POV.GINI,41.1,..,..,41.2,..,..,40.7,..,..
+Malaysia,MYS,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,68.354,68.338,68.555,69.065,69.499,69.332,69.565,69.641,69.753
+Malaysia,MYS,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,75.288,75.371,75.542,75.734,75.9,76.057,73.917,75.444,76.657
+Malaysia,MYS,Regulatory Quality: Estimate,RQ.EST,0.704775094985962,0.663995385169983,0.671388506889343,0.575907409191132,0.547572374343872,0.666613459587097,0.714465439319611,0.644006609916687,0.660894274711609
+Malaysia,MYS,Voice and Accountability: Estimate,VA.EST,-0.391403198242188,-0.416713893413544,-0.398660808801651,-0.099500760436058,-0.0477054789662361,-0.154460147023201,-0.164951831102371,0.000423186487751082,0.0876194089651108
+Malaysia,MYS,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2706.92696275778,2759.17228283076,2617.76462271235,2839.45244829846,2878.2988852867,2722.6031659631,2793.49953523,2867.09651939173,..
+Malaysia,MYS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.86513059291381,0.892493297587131,0.888973994237152,1.27179108241407,1.51029138842632,1.89676222635702,-0.280085788739672,..,..
+Malaysia,MYS,Methane (CH4) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CH4.ZG.AR5,40.1438238276,44.3816754297032,45.2729116072902,45.9194115011907,44.631598802254,39.6156838705114,38.5716643481951,40.4871147997077,42.6534317308372
+Malaysia,MYS,"School enrollment, secondary (% gross)",SE.SEC.ENRR,81.5115814208984,79.8283920288086,78.8863677978516,74.4872817993164,75.3229827880859,73.2459411621094,74.9618181140898,78.8341986282999,79.4472788704033
+Malaysia,MYS,Human capital index (HCI) (scale 0-1),HD.HCI.OVRL,..,..,0.622,0.632578670978546,..,0.610976159572601,..,..,..
+Malaysia,MYS,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,0.4,..,..,0.2,..,..,0.1,..,..
+Malaysia,MYS,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,7.6,..,..,5.6,8.4,..,6.2,..,5.8
+Malaysia,MYS,Government Effectiveness: Estimate,GE.EST,0.91708517074585,0.817718744277954,0.77773243188858,1.05388987064362,0.967774987220764,1.02225887775421,0.952433526515961,0.992667615413666,0.875369668006897
+Malaysia,MYS,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,0.25394731760025,0.129485934972763,0.111209630966187,0.248113676905632,0.14648012816906,0.125864699482918,0.0595565475523472,0.163117811083794,0.16851469874382
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,
+Last Updated: 10/07/2025,,,,,,,,,,,,
+Code,License Type,Indicator Name,Short definition,Long definition,Source,Topic,Dataset,Unit of measure,Periodicity,Reference period,Aggregation method,Statistical concept and methodology,Development relevance,Limitations and exceptions,Other notes,License URL
+CC.PER.RNK,CC BY-4.0,Control of Corruption: Percentile Rank,"The Worldwide Governance Indicators (WGI) are a research dataset summarizing the views on the quality of governance provided by a large number of enterprise, citizen and expert survey respondents in industrial and developing countries. Governance consists of the traditions and institutions by which authority in a country is exercised. This includes the process by which governments are selected, monitored and replaced; the capacity of the government to effectively formulate and implement sound policies; and the respect of citizens and the state for the institutions that govern economic and social interactions among them.
+
+Control of Corruption captures perceptions of the extent to which public power is exercised for private gain, including both petty and grand forms of corruption, as well as "capture" of the state by elites and private interests.  
+
+Percentile rank indicates the country's rank among all countries covered by the aggregate indicator, with 0 corresponding to lowest rank, and 100 to highest rank.  Percentile ranks have been adjusted to correct for changes over time in the composition of the countries covered by the WGI.","The Worldwide Governance Indicators (WGI) are a research dataset summarizing the views on the quality of governance provided by a large number of enterprise, citizen and expert survey respondents in industrial and developing countries. Governance consists of the traditions and institutions by which authority in a country is exercised. This includes the process by which governments are selected, monitored and replaced; the capacity of the government to effectively formulate and implement sound policies; and the respect of citizens and the state for the institutions that govern economic and social interactions among them.
+
+Control of Corruption captures perceptions of the extent to which public power is exercised for private gain, including both petty and grand forms of corruption, as well as "capture" of the state by elites and private interests.  
+
+Percentile rank indicates the country's rank among all countries covered by the aggregate indicator, with 0 corresponding to lowest rank, and 100 to highest rank.  Percentile ranks have been adjusted to correct for changes over time in the composition of the countries covered by the WGI.","Worldwide Governance Indicators, World Bank (WB), uri: www.govindicators.org, note: The Worldwide Governance Indicators (WGI) are a product of the staff of the World Bank with external contributions.",Public Sector: Policy & institutions,WDI,Percentile,Annual,1996-2023,,,"Good governance is essential for development. It helps countries improve economic growth, build human capital, and strengthen social cohesion. Empirical evidence shows a strong causal relationship between better governance and better development outcomes. The Worldwide Governance Indicators (WGI) are designed to help researchers and analysts assess broad patterns in perceptions of governance across countries and over time. The WGI cover over 200 countries and territories, measuring six dimensions of governance starting in 1996: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. The aggregate indicators are based on several hundred individual underlying variables, taken from a wide variety of existing data sources. The data reflect the views on governance of survey respondents and public, private, and NGO sector experts worldwide.","The six composite WGI measures are useful as a tool for broad cross-country comparisons and for evaluating broad trends over time. However, they are often too blunt a tool to be useful in formulating specific governance reforms in particular country contexts. Such reforms, and evaluation of their progress, need to be informed by much more detailed and country-specific diagnostic data that can identify the relevant constraints on governance in particular country circumstances.
+
+The WGI are complementary to a large number of other efforts to construct more detailed measures of governance, often just for a single country. Users are also encouraged to consult the disaggregated individual indicators underlying the composite WGI scores to gain more insights into the particular areas of strengths and weaknesses identified by the data.
+
+The WGI do not reflect the official views of the Natural Resource Governance Institute, the Brookings Institution, the World Bank, its Executive Directors, or the countries they represent. The WGI are not used by the World Bank Group to allocate resources.",,https://datacatalog.worldbank.org/public-licenses#cc-by
+EN.GHG.CO2.ZG.AR5,CC BY-4.0,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),"Change of emissions (as %) of current year with respect to emissions in baseline year 1990 emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from the agriculture, energy, waste, and industrial sectors, excluding LULUCF.. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5). Negative values indicate that the emission level for that year is lower than the emissions level in 1990.","Change of emissions (as %) of current year with respect to emissions in baseline year 1990 emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from the agriculture, energy, waste, and industrial sectors, excluding LULUCF.. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5). Negative values indicate that the emission level for that year is lower than the emissions level in 1990.","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,%,Annual,1991-2023,Weighted average using 1990 emission levels as weights,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+
+
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+
+
+
+?? =??×????
+
+
+
+
+Where:
+
+
+
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+
+
+
+
+A = Activity data (e.g., fuel consumption, production levels)
+
+
+
+
+EF = Emission factor (kg of pollutant per unit of activity)
+
+
+
+
+
+
+
+
+
+Depending on the pollutant, different tiers of complexity are used:
+
+
+
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+
+
+
+
+Tier 2 – Country/region-specific emission factors
+
+
+
+
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",,https://datacatalog.worldbank.org/public-licenses#cc-by
+RL.PER.RNK,CC BY-4.0,Rule of Law: Percentile Rank,"The Worldwide Governance Indicators (WGI) are a research dataset summarizing the views on the quality of governance provided by a large number of enterprise, citizen and expert survey respondents in industrial and developing countries. Governance consists of the traditions and institutions by which authority in a country is exercised. This includes the process by which governments are selected, monitored and replaced; the capacity of the government to effectively formulate and implement sound policies; and the respect of citizens and the state for the institutions that govern economic and social interactions among them.
+
+Rule of Law captures perceptions of the extent to which agents have confidence in and abide by the rules of society, and in particular the quality of contract enforcement, property rights, the police, and the courts, as well as the likelihood of crime and violence. 
+
+Percentile rank indicates the country's rank among all countries covered by the aggregate indicator, with 0 corresponding to lowest rank, and 100 to highest rank.  Percentile ranks have been adjusted to correct for changes over time in the composition of the countries covered by the WGI.","The Worldwide Governance Indicators (WGI) are a research dataset summarizing the views on the quality of governance provided by a large number of enterprise, citizen and expert survey respondents in industrial and developing countries. Governance consists of the traditions and institutions by which authority in a country is exercised. This includes the process by which governments are selected, monitored and replaced; the capacity of the government to effectively formulate and implement sound policies; and the respect of citizens and the state for the institutions that govern economic and social interactions among them.
+
+Rule of Law captures perceptions of the extent to which agents have confidence in and abide by the rules of society, and in particular the quality of contract enforcement, property rights, the police, and the courts, as well as the likelihood of crime and violence. 
+
+Percentile rank indicates the country's rank among all countries covered by the aggregate indicator, with 0 corresponding to lowest rank, and 100 to highest rank.  Percentile ranks have been adjusted to correct for changes over time in the composition of the countries covered by the WGI.","Worldwide Governance Indicators, World Bank (WB), uri: www.govindicators.org, note: The Worldwide Governance Indicators (WGI) are a product of the staff of the World Bank with external contributions.",Public Sector: Policy & institutions,WDI,Percentile,Annual,1996-2023,,,"Good governance is essential for development. It helps countries improve economic growth, build human capital, and strengthen social cohesion. Empirical evidence shows a strong causal relationship between better governance and better development outcomes. The Worldwide Governance Indicators (WGI) are designed to help researchers and analysts assess broad patterns in perceptions of governance across countries and over time. The WGI cover over 200 countries and territories, measuring six dimensions of governance starting in 1996: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. The aggregate indicators are based on several hundred individual underlying variables, taken from a wide variety of existing data sources. The data reflect the views on governance of survey respondents and public, private, and NGO sector experts worldwide.","The six composite WGI measures are useful as a tool for broad cross-country comparisons and for evaluating broad trends over time. However, they are often too blunt a tool to be useful in formulating specific governance reforms in particular country contexts. Such reforms, and evaluation of their progress, need to be informed by much more detailed and country-specific diagnostic data that can identify the relevant constraints on governance in particular country circumstances.
+
+The WGI are complementary to a large number of other efforts to construct more detailed measures of governance, often just for a single country. Users are also encouraged to consult the disaggregated individual indicators underlying the composite WGI scores to gain more insights into the particular areas of strengths and weaknesses identified by the data.
+
+The WGI do not reflect the official views of the Natural Resource Governance Institute, the Brookings Institution, the World Bank, its Executive Directors, or the countries they represent. The WGI are not used by the World Bank Group to allocate resources.",,https://datacatalog.worldbank.org/public-licenses#cc-by
+EG.FEC.RNEW.ZS,CC BY-4.0,Renewable energy consumption (% of total final energy consumption),Renewable energy consumption is the share of renewables energy in total final energy consumption.,Renewable energy consumption is the share of renewables energy in total final energy consumption.,"IEA Energy Statistics Data Browser, International Energy Agency (IEA), uri: https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser, publisher: International Energy Agency (IEA), date accessed: 2025-03-25",Environment: Energy production & use,WDI,% (share) of final energy consumption,Annual,1990-2022,Weighted average,"Methodology: The numerator includes the direct consumption of renewable energy sources plus the final consumption of gross electricity and heat estimated to have come from renewable sources, while the denominator is the total final energy consumption of all energy products.
+Statistical concept(s):",,,,https://datacatalog.worldbank.org/public-licenses#cc-by
+EN.ATM.PM25.MC.M3,CC BY-4.0,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","Population-weighted exposure to ambient PM2.5 pollution is defined as the average level of exposure of a nation's population to concentrations of suspended particles measuring less than 2.5 microns in aerodynamic diameter, which are capable of penetrating deep into the respiratory tract and causing severe health damage. Exposure is calculated by weighting mean annual concentrations of PM2.5 by population in both urban and rural areas.","Population-weighted exposure to ambient PM2.5 pollution is defined as the average level of exposure of a nation's population to concentrations of suspended particles measuring less than 2.5 microns in aerodynamic diameter, which are capable of penetrating deep into the respiratory tract and causing severe health damage. Exposure is calculated by weighting mean annual concentrations of PM2.5 by population in both urban and rural areas.","Global Burden of Disease Study 2021 (GBD 2021) Air Pollution Exposure Estimates 1990-2021, Institute for Health Metrics and Evaluation (IHME), uri: https://ghdx.healthdata.org/record/ihme-data/gbd-2021-air-pollution-exposure-estimates-1990-2021, note: Need to create account to retrieve data., publisher: Institute for Health Metrics and Evaluation (IHME), date accessed: 2024-09-26, date published: 2024-06-06",Environment: Emissions,WDI,microgram per cubic meter,Annual,1990-2020,Weighted average,"Methodology: A. van Donkelaar, R.V. Martin, M. Brauer, N.C. Hsu, R.A. Kahn, R.C. Levy, A. Lyapustin, A.M. Sayer, D.M. Winker, "Global Estimates of Fine Particulate Matter using a Combined Geophysical-Statistical Method with Information from Satellites, Models, and Monitors," Environ. Sci. Technol 50, no. 7 (2016): 3762–3772; GBD 2017 Risk Factors Collaborators, "Global, regional, and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks for 194 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017," Lancet 392 (2018): 1923-1994; Shaddick G, Thomas M, Amini H, Broday DM, Cohen A, Frostad J, Green A, Gumy S, Liu Y, Martin RV, Prüss-Üstün A, Simpson D, van Donkelaar A, Brauer M. Data integration for the assessment of population exposure to ambient air pollution for global burden of disease assessment. Environ Sci Technol. 2018 Jun 29. Data provided by Institute for Health Metrics and Evaluation, University of Washington, Seattle. Data on exposure to ambient air pollution are derived from estimates of annual concentrations of very fine particulates produced by the Global Burden of Disease study, an international scientific effort led by the Institute for Health Metrics and Evaluation at the University of Washington. Estimates of annual concentrations are generated by combining data from atmospheric chemistry transport models, satellite observations of aerosols in the atmosphere, and ground-level monitoring of particulates. Exposure to concentrations of PM2.5 in both urban and rural areas is weighted by population and is aggregated at the national level.","Air pollution places a major burden on world health. In many places, including cities but also in rural areas, exposure to air pollution is the main environmental threat to health, responsible for 6.5 million deaths per year, about one every 5 seconds. Around 40 percent of the world’s people rely on household burning of wood, charcoal, dung, crop waste, or coal to meet basic energy needs. Cooking and heating with solid fuels create harmful smoke and particles that fill homes and the surrounding environment. Household air pollution from cooking and heating with solid fuels is responsible for 2.9 million deaths a year. Long-term exposure to high levels of fine particles in the air contributes to a range of health effects, including respiratory diseases, lung cancer, and heart disease, resulting in 4.2 million deaths annually. Not only does exposure to air pollution affect the health of the world’s people, it also carries huge economic costs and represents a drag on development, particularly for low and middle income countries and vulnerable segments of the population such as children and the elderly.","Pollutant concentrations are sensitive to local conditions, and even monitoring sites in the same city may register different levels. Direct monitoring of PM2.5 is still rare in most parts of the world, and measurement protocols and standards are not the same for all countries. These data should be considered only a general indication of air quality, intended to inform cross-country comparisons of the health risks due to particulate matter pollution. The guideline set by the World Health Organization (WHO) for PM2.5 is that annual mean concentrations should not exceed 10 micrograms per cubic meter, representing the lower range over which adverse health effects have been observed. The WHO has also recommended guideline values for emissions of PM2.5 from burning fuels in households.",,https://datacatalog.worldbank.org/public-licenses#cc-by
+EG.ELC.RNEW.ZS,CC BY-4.0,Renewable electricity output (% of total electricity output),Renewable electricity is the share of electrity generated by renewable power plants in total electricity generated by all types of plants.,Renewable electricity is the share of electrity generated by renewable power plants in total electricity generated by all types of plants.,"IEA Energy Statistics Data Browser, International Energy Agency (IEA), uri: https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser, publisher: International Energy Agency (IEA), date accessed: 2025-03-25",Environment: Energy production & use,WDI,% (share) of electricity output,Annual,1960-2021,Weighted average,"Methodology: The share of renewable electricity output is calculated using the formula:
+
+
+
+Renewable Electricity Share(%)=(Electricity from Renewable Sources (MWh) / Total Electricity Output (MWh))×100
+
+
+
+Where:
+
+
+
+Electricity from Renewable Sources = Total electricity generated from hydropower, wind, solar, biomass, geothermal, and ocean energy.
+
+
+
+Total Electricity Output = Sum of electricity generated from all sources, including fossil fuels, nuclear, and renewables.","Renewable energy sources are essential for reducing greenhouse gas emissions and combating climate change. They help decrease dependence on fossil fuels, enhancing energy security and price stability. The sector also drives economic growth by creating jobs and attracting investment. Technological advancements in renewables support innovation in storage, smart grids, and sustainable infrastructure. Additionally, they improve energy access in remote areas, promoting social and economic development worldwide.",,,https://datacatalog.worldbank.org/public-licenses#cc-by
+AG.LND.FRST.ZS,CC BY-4.0,Forest area (% of land area),"Forest area (% of land area) is the share of total land area that is under natural or planted stands of trees of at least 5 meters in situ, whether productive or not, and excludes tree stands in agricultural production systems (for example, in fruit plantations and agroforestry systems) and trees in urban parks and gardens.","Forest area (% of land area) is the share of total land area that is under natural or planted stands of trees of at least 5 meters in situ, whether productive or not, and excludes tree stands in agricultural production systems (for example, in fruit plantations and agroforestry systems) and trees in urban parks and gardens.","FAOSTAT, Food and Agriculture Organization of the United Nations (FAO), uri: https://www.fao.org/faostat/en/#data/RL, publisher: Food and Agriculture Organization of the United Nations (FAO)",Environment: Land use,WDI,% (share) of land area,Annual,1990-2022,Weighted average,"Methodology: Forest is determined both by the presence of trees and the absence of other predominant land uses. The trees should reach a minimum height of 5 meters in situ. Areas under reforestation that have not yet reached but are expected to reach a canopy cover of 10 percent and a tree height of 5 meters are included, as are temporarily unstocked areas, resulting from human intervention or natural causes, which are expected to regenerate.
+
+
+
+
+
+
+
+
+
+
+
+The Food and Agriculture Organization (FAO) provides detail information on forest cover, and adjusted estimates of forest cover. The survey uses a uniform definition of forest. Although FAO provides a breakdown of forest cover between natural forest and plantation for developing countries, forest data used to derive this indictor data does not reflect that breakdown. Total land area does not include inland water bodies such as major rivers and lakes. Variations from year to year may be due to updated or revised data rather than to change in area. 
+
+
+
+
+
+
+
+
+
+
+
+The indictor is derived by dividing total area under forest of a country by country's total land area, and multiplying by 100.
+Statistical concept(s): Forest - Forests are lands of more than 0.5 hectares, with a tree canopy cover of more than 10 percent, which are not primarily under agricultural or urban land use. Forests are determined both by the presence of trees and the absence of other predominant land uses. The trees should be able to reach a minimum height of 5 meters in situ. Areas under reforestation which have yet to reach a crown density of 10 percent or tree height of 5 m are included, as are temporarily unstocked areas, resulting from human intervention or natural causes, that are expected to regenerate. The term specifically includes: forest nurseries and seed orchards that constitute an integral part of the forest; forest roads, firebreaks and other small open areas; forest in national parks, nature reserves and other protected areas such as those of specific scientific, historical, cultural or spiritual interest; windbreaks and shelterbelts of trees with an area of more than 0.5 ha and width of more than 20 m; plantations primarily used for forestry purposes, including rubberwood plantations and cork oak stands. The term specifically excludes trees planted primarily for agricultural production, for example in fruit plantations and agroforestry systems.","As threats to biodiversity mount, the international community is increasingly focusing on conserving diversity. Deforestation is a major cause of loss of biodiversity, and habitat conservation is vital for stemming this loss. Conservation efforts have focused on protecting areas of high biodiversity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+On a global average, more than one-third of all forest is primary forest, i.e. forest of native species where there are no clearly visible indications of human activities and the ecological processes have not been significantly disturbed. Primary forests, in particular tropical moist forests, include the most species-rich, diverse terrestrial ecosystems. The decrease of forest area, .11 percent over a ten-year period, is largely due to reclassification of primary forest to "other naturally regenerated forest" because of selective logging and other human interventions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Destruction of rainforests remains a significant environmental problem Much of what remains of the world's rainforests is in the Amazon basin, where the Amazon Rainforest covers approximately 4 million square kilometers. The regions with the highest tropical deforestation rate are in Central America and tropical Asia. FAO estimates that the decrease of primary forest area, 0.4 percent over a ten-year period, is largely due to reclassification of primary forest to "other naturally regenerated forest" because of selective logging and other human interventions. Large-scale planting of trees is significantly reducing the net loss of forest area globally, and afforestation and natural expansion of forests in some countries and regions have reduced the net loss of forest area significantly at the global level.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forests cover about 31 percent of total land area of the world; the world's total forest area is just over 4 billion hectares. On a global average, more than one-third of all forest is primary forest, i.e. forest of native species where there are no clearly visible indications of human activities and the ecological processes have not been significantly disturbed. Primary forests, in particular tropical moist forests, include the most species-rich, diverse terrestrial ecosystems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+National parks, game reserves, wilderness areas and other legally established protected areas cover more than 10 percent of the total forest area in most countries and regions. FAO estimates that around 10 million people are employed in forest management and conservation - but many more are directly dependent on forests for their livelihoods. Close to 1.2 billion hectares of forest are managed primarily for the production of wood and non-wood forest products. An additional 25 percent of forest area is designated for multiple uses - in most cases including the production of wood and non-wood forest products. The area designated primarily for productive purposes has decreased by more than 50 million hectares since 1990 as forests have been designated for other purposes.","FAO has been collecting and analyzing data on forest area since 1946. This is done at intervals of 5-10 years as part of the Global Forest Resources Assessment (FRA). FAO reports data for 229 countries and territories; for the remaining 56 small island states and territories where no information is provided, a report is prepared by FAO using existing information and a literature search. The data are aggregated at sub-regional, regional and global levels by the FRA team at FAO, and estimates are produced by straight summation.
+
+
+
+
+
+
+
+
+
+
+
+The lag between the reference year and the actual production of data series as well as the frequency of data production varies between countries. Deforested areas do not include areas logged but intended for regeneration or areas degraded by fuelwood gathering, acid precipitation, or forest fires. Negative numbers indicate an increase in forest area.
+
+
+
+
+
+
+
+
+
+
+
+Data includes areas with bamboo and palms; forest roads, firebreaks and other small open areas; forest in national parks, nature reserves and other protected areas such as those of specific scientific, historical, cultural or spiritual interest; windbreaks, shelterbelts and corridors of trees with an area of more than 0.5 hectares and width of more than 20 meters; plantations primarily used for forestry or protective purposes, such as rubber-wood plantations and cork oak stands. Data excludes tree stands in agricultural production systems, such as fruit plantations and agroforestry systems. Forest area also excludes trees in urban parks and gardens. The proportion of forest area to total land area is calculated and changes in the proportion are computed to identify trends.",The world and regional aggregate series do not include data from countries that no longer exist.,https://datacatalog.worldbank.org/public-licenses#cc-by
+SI.POV.GINI,CC BY-4.0,Gini index,"Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from a perfectly equal distribution. A Lorenz curve plots the cumulative percentages of total income received against the cumulative number of recipients, starting with the poorest individual or household. The Gini index measures the area between the Lorenz curve and a hypothetical line of absolute equality, expressed as a percentage of the maximum area under the line. Thus a Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.","Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from a perfectly equal distribution. A Lorenz curve plots the cumulative percentages of total income received against the cumulative number of recipients, starting with the poorest individual or household. The Gini index measures the area between the Lorenz curve and a hypothetical line of absolute equality, expressed as a percentage of the maximum area under the line. Thus a Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.","World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.",Poverty: Income distribution,WDI,%,Annual,1963-2024,NA,"Methodology: The Gini index measures the area between the Lorenz curve and a hypothetical line of absolute equality, expressed as a percentage of the maximum area under the line. A Lorenz curve plots the cumulative percentages of total income received against the cumulative number of recipients, starting with the poorest individual. Thus a Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.
+
+
+
+
+
+
+
+The Gini index provides a convenient summary measure of the degree of inequality. Data on the distribution of income or consumption come from nationally representative household surveys. Where the original data from the household survey were available, they have been used to calculate the income or consumption shares by quintile. Otherwise, shares have been estimated from the best available grouped data.
+
+
+
+
+
+
+
+The distribution data have been adjusted for household size, providing a more consistent measure of per capita income or consumption. 
+
+
+
+
+
+
+
+The year reflects the year in which the underlying household survey data were collected or, when the data collection period bridged two calendar years, the year data collection started.
+Statistical concept(s): The Gini index is the average of all pairwise absolute differences between individual consumption or income, normalized by twice the mean. More intuitively, the Gini index is the average share of mean consumption or income that needs to be transferred between two randomly selected individuals to achieve equality. A Gini index of 1 represents perfect inequality, in which total consumption or income goes to one individual. A Gini index of 0 indicates represents perfect equality, in which all individuals have the same level of consumption or income.","The World Bank Group's vision of promoting shared prosperity includes a measure that tracks the number of economies with high inequality, defined as those with a Gini index greater than 0.4","Gini coefficients are not unique. It is possible for two different Lorenz curves to give rise to the same Gini coefficient. Furthermore it is possible for the Gini coefficient of a developing country to rise (due to increasing inequality of income) while the number of people in absolute poverty decreases. This is because the Gini coefficient measures relative, not absolute, wealth.
+
+
+
+
+
+
+
+Another limitation of the Gini coefficient is that it is not additive across groups, i.e. the total Gini of a society is not equal to the sum of the Gini's for its sub-groups. Thus, country-level Gini coefficients cannot be aggregated into regional or global Gini's, although a Gini coefficient can be computed for the aggregate.
+
+
+
+
+
+
+
+Because the underlying household surveys differ in methods and types of welfare measures collected, data are not strictly comparable across countries or even across years within a country. Two sources of non-comparability should be noted for distributions of income in particular. First, the surveys can differ in many respects, including whether they use income or consumption expenditure as the living standard indicator. The distribution of income is typically more unequal than the distribution of consumption. In addition, the definitions of income used differ more often among surveys. Consumption is usually a much better welfare indicator, particularly in developing countries. Second, households differ in size (number of members) and in the extent of income sharing among members. And individuals differ in age and consumption needs. Differences among countries in these respects may bias comparisons of distribution. 
+
+
+
+
+
+
+
+World Bank staff have made an effort to ensure that the data are as comparable as possible. Wherever possible, consumption has been used rather than income. Income distribution and Gini indexes for high-income economies are calculated directly from the Luxembourg Income Study database, using an estimation method consistent with that applied for developing countries.",The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,https://datacatalog.worldbank.org/public-licenses#cc-by
+SL.TLF.ACTI.ZS,CC BY-4.0,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",Labor force participation rate is the proportion of the population ages 15-64 that is economically active: all people who supply labor for the production of goods and services during a specified period.,Labor force participation rate is the proportion of the population ages 15-64 that is economically active: all people who supply labor for the production of goods and services during a specified period.,"ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), uri: https://ilostat.ilo.org/data/bulk/, publisher: ILOSTAT, type: external database, date accessed: January 07, 2025",Social Protection & Labor: Labor force structure,WDI,% of total population ages 15-64,Annual,1990-2024,Weighted average,"Methodology: The labor force participation rate is calculated by expressing the number of persons in the labor force as a percentage of the population of a given age group. The labor force is the sum of the number of persons employed and the number of unemployed. 
+
+Labor force surveys are typically the preferred source of information for determining the labor force participation rate. Such surveys can be designed to cover virtually the entire noninstitutional population of a given country, all branches of economic activity, all sectors of the economy and all categories of workers, including the self-employed, contributing (unpaid) family workers, casual workers and multiple jobholders. In addition, such surveys generally provide an opportunity for the simultaneous measurement of the employed, the unemployed and persons outside the labor force in a coherent framework. 
+
+Population censuses are another major source of data on the labor force and its components. The labor force participation rates obtained from population censuses, however, tend to be lower, as the vastness of the census operation inhibits the recruitment of trained interviewers and does not typically allow for detailed probing on the labor market activities of the respondents.
+
+The series is part of the "ILO modeled estimates database," including nationally reported observations and imputed data for countries with missing data, primarily to capture regional and global trends with consistent country coverage. Country-reported microdata is based mainly on nationally representative labor force surveys, with other sources (e.g., household surveys and population censuses) considering differences in the data source, the scope of coverage, methodology, and other country-specific factors. Country analysis requires caution where limited nationally reported data are available. A series of models are also applied to impute missing observations and make projections. However, imputed observations are not based on national data, are subject to high uncertainty, and should not be used for country comparisons or rankings. For more information: https://ilostat.ilo.org/resources/concepts-and-definitions/ilo-modelled-estimates/
+Statistical concept(s): The labor force is the supply of labor available for producing goods and services in an economy. It includes people who are currently employed and people who are unemployed but seeking work as well as first-time job-seekers. Not everyone who works is included, however. Unpaid workers, family workers, and students are often omitted, and some countries do not count members of the armed forces. Labor force size tends to vary during the year as seasonal workers enter and leave.","The labor force participation rate indicator plays a central role in the study of the factors that determine the size and composition of a country’s human resources and in making projections of the future supply of labor. The information is also used to formulate employment policies, to determine training needs and to calculate the expected working lives of the male and female populations and the rates of accession to, and retirement from, economic activity – crucial information for the financial planning of social security systems.","Data on the labor force are compiled by the ILO from labor force surveys, censuses, and establishment censuses and surveys. For some countries a combination of these sources is used. Labor force surveys are the most comprehensive source for internationally comparable labor force data. They can cover all non-institutionalized civilians, all branches and sectors of the economy, and all categories of workers, including people holding multiple jobs. By contrast, labor force data from population censuses are often based on a limited number of questions on the economic characteristics of individuals, with little scope to probe. The resulting data often differ from labor force survey data and vary considerably by country, depending on the census scope and coverage. Establishment censuses and surveys provide data only on the employed population, not unemployed workers, workers in small establishments, or workers in the informal sector.
+
+The reference period of a census or survey is another important source of differences: in some countries data refer to people's status on the day of the census or survey or during a specific period before the inquiry date, while in others data are recorded without reference to any period. In countries, where the household is the basic unit of production and all members contribute to output, but some at low intensity or irregularly, the estimated labor force may be much smaller than the numbers actually working.
+
+Differing definitions of employment age also affect comparability. For most countries the working age is 15 and older, but in some countries children younger than 15 work full- or part-time and are included in the estimates. Similarly, some countries have an upper age limit. As a result, calculations may systematically over- or underestimate actual rates.",National estimates are also available in the WDI database. Caution should be used when comparing ILO estimates with national estimates.,https://datacatalog.worldbank.org/public-licenses#cc-by
+SP.DYN.LE00.IN,CC BY-4.0,"Life expectancy at birth, total (years)",Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.,Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.,"World Population Prospects, United Nations (UN), uri: UN Population Division;
+Statistical databases and publications from national statistical offices, National statistical offices, note: Derived from male and female life expectancy at birth from sources such as statistical databases and publications from national statistical offices.;
+Demographic Statistics, Eurostat (ESTAT), note: Derived from male and female life expectancy at birth from sources such as Eurostat: Demographic Statistics.",Health: Mortality,WDI,Years,Annual,1960-2023,Weighted average,"Methodology: Life expectancy at birth is derived from life tables and is based on sex- and age-specific death rates, or derived from male and female life expectancy at birth.
+Statistical concept(s): Life expectancy at birth used here is the average number of years a newborn is expected to live if mortality patterns at the time of its birth remain constant in the future. It reflects the overall mortality level of a population, and summarizes the mortality pattern that prevails across all age groups in a given year. It is calculated in a period life table which provides a snapshot of a population's mortality pattern at a given time. It therefore does not reflect the mortality pattern that a person actually experiences during his/her life, which can be calculated in a cohort life table.
+
+
+
+High mortality in young age groups significantly lowers the life expectancy at birth. But if a person survives his/her childhood of high mortality, he/she may live much longer. For example, in a population with a life expectancy at birth of 50, there may be few people dying at age 50. The life expectancy at birth may be low due to the high childhood mortality so that once a person survives his/her childhood, he/she may live much longer than 50 years.","Mortality rates for different age groups (infants, children, and adults) and overall mortality indicators (life expectancy at birth or survival to a given age) are important indicators of health status in a country. Because data on the incidence and prevalence of diseases are frequently unavailable, mortality rates are often used to identify vulnerable populations. And they are among the indicators most frequently used to compare socioeconomic development across countries.",Annual data series from United Nations Population Division's World Population Prospects are interpolated data from 5-year period data. Therefore they may not reflect real events as much as observed data.,,https://datacatalog.worldbank.org/public-licenses#cc-by
+RQ.EST,CC BY-4.0,Regulatory Quality: Estimate,"The Worldwide Governance Indicators (WGI) are a research dataset summarizing the views on the quality of governance provided by a large number of enterprise, citizen and expert survey respondents in industrial and developing countries. Governance consists of the traditions and institutions by which authority in a country is exercised. This includes the process by which governments are selected, monitored and replaced; the capacity of the government to effectively formulate and implement sound policies; and the respect of citizens and the state for the institutions that govern economic and social interactions among them. The WGI measures six dimensions of governance: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. 
+
+Regulatory Quality captures perceptions of the ability of the government to formulate and implement sound policies and regulations that permit and promote private sector development. 
+
+Estimate gives the country's score on the aggregate indicator, in units of a standard normal distribution, i.e. ranging from approximately -2.5 to 2.5.
+
+For each dimension of governance the following information is available in the database: estimate, percentile rank, lower bound of 90% confidence interval, upper bound of 90% confidence interval, standard error, number of sources.","The Worldwide Governance Indicators (WGI) are a research dataset summarizing the views on the quality of governance provided by a large number of enterprise, citizen and expert survey respondents in industrial and developing countries. Governance consists of the traditions and institutions by which authority in a country is exercised. This includes the process by which governments are selected, monitored and replaced; the capacity of the government to effectively formulate and implement sound policies; and the respect of citizens and the state for the institutions that govern economic and social interactions among them. The WGI measures six dimensions of governance: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. 
+
+Regulatory Quality captures perceptions of the ability of the government to formulate and implement sound policies and regulations that permit and promote private sector development. 
+
+Estimate gives the country's score on the aggregate indicator, in units of a standard normal distribution, i.e. ranging from approximately -2.5 to 2.5.
+
+For each dimension of governance the following information is available in the database: estimate, percentile rank, lower bound of 90% confidence interval, upper bound of 90% confidence interval, standard error, number of sources.","Worldwide Governance Indicators, World Bank (WB), uri: www.govindicators.org",Public Sector: Policy & institutions,WDI,"Units of a standard normal distribution (between -2.5 and 2.5, approximately)",Annual,1996-2023,,,"Good governance is essential for development. It helps countries improve economic growth, build human capital, and strengthen social cohesion. Empirical evidence shows a strong causal relationship between better governance and better development outcomes. The Worldwide Governance Indicators (WGI) are designed to help researchers and analysts assess broad patterns in perceptions of governance across countries and over time. The WGI cover over 200 countries and territories, measuring six dimensions of governance starting in 1996: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. The aggregate indicators are based on several hundred individual underlying variables, taken from a wide variety of existing data sources. The data reflect the views on governance of survey respondents and public, private, and NGO sector experts worldwide.","The six composite WGI measures are useful as a tool for broad cross-country comparisons and for evaluating broad trends over time. However, they are often too blunt a tool to be useful in formulating specific governance reforms in particular country contexts. Such reforms, and evaluation of their progress, need to be informed by much more detailed and country-specific diagnostic data that can identify the relevant constraints on governance in particular country circumstances.
+
+The WGI are complementary to a large number of other efforts to construct more detailed measures of governance, often just for a single country. Users are also encouraged to consult the disaggregated individual indicators underlying the composite WGI scores to gain more insights into the particular areas of strengths and weaknesses identified by the data.
+
+The WGI do not reflect the official views of the Natural Resource Governance Institute, the Brookings Institution, the World Bank, its Executive Directors, or the countries they represent. The WGI are not used by the World Bank Group to allocate resources.",,https://datacatalog.worldbank.org/public-licenses#cc-by
+VA.EST,CC BY-4.0,Voice and Accountability: Estimate,"The Worldwide Governance Indicators (WGI) are a research dataset summarizing the views on the quality of governance provided by a large number of enterprise, citizen and expert survey respondents in industrial and developing countries. Governance consists of the traditions and institutions by which authority in a country is exercised. This includes the process by which governments are selected, monitored and replaced; the capacity of the government to effectively formulate and implement sound policies; and the respect of citizens and the state for the institutions that govern economic and social interactions among them. The WGI measures six dimensions of governance: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. 
+
+Voice and Accountability captures perceptions of the extent to which a country's citizens are able to participate in selecting their government, as well as freedom of expression, freedom of association, and a free media. 
+
+Estimate gives the country's score on the aggregate indicator, in units of a standard normal distribution, i.e. ranging from approximately -2.5 to 2.5. 
+
+For each dimension of governance the following information is available in the database: estimate, percentile rank, lower bound of 90% confidence interval, upper bound of 90% confidence interval, standard error, number of sources.","The Worldwide Governance Indicators (WGI) are a research dataset summarizing the views on the quality of governance provided by a large number of enterprise, citizen and expert survey respondents in industrial and developing countries. Governance consists of the traditions and institutions by which authority in a country is exercised. This includes the process by which governments are selected, monitored and replaced; the capacity of the government to effectively formulate and implement sound policies; and the respect of citizens and the state for the institutions that govern economic and social interactions among them. The WGI measures six dimensions of governance: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. 
+
+Voice and Accountability captures perceptions of the extent to which a country's citizens are able to participate in selecting their government, as well as freedom of expression, freedom of association, and a free media. 
+
+Estimate gives the country's score on the aggregate indicator, in units of a standard normal distribution, i.e. ranging from approximately -2.5 to 2.5. 
+
+For each dimension of governance the following information is available in the database: estimate, percentile rank, lower bound of 90% confidence interval, upper bound of 90% confidence interval, standard error, number of sources.","Worldwide Governance Indicators, World Bank (WB), uri: www.govindicators.org, note: The Worldwide Governance Indicators (WGI) are a product of the staff of the World Bank with external contributions.",Public Sector: Policy & institutions,WDI,"Units of a standard normal distribution (between -2.5 and 2.5, approximately)",Annual,1996-2023,,,"Good governance is essential for development. It helps countries improve economic growth, build human capital, and strengthen social cohesion. Empirical evidence shows a strong causal relationship between better governance and better development outcomes. The Worldwide Governance Indicators (WGI) are designed to help researchers and analysts assess broad patterns in perceptions of governance across countries and over time. The WGI cover over 200 countries and territories, measuring six dimensions of governance starting in 1996: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. The aggregate indicators are based on several hundred individual underlying variables, taken from a wide variety of existing data sources. The data reflect the views on governance of survey respondents and public, private, and NGO sector experts worldwide.","The six composite WGI measures are useful as a tool for broad cross-country comparisons and for evaluating broad trends over time. However, they are often too blunt a tool to be useful in formulating specific governance reforms in particular country contexts. Such reforms, and evaluation of their progress, need to be informed by much more detailed and country-specific diagnostic data that can identify the relevant constraints on governance in particular country circumstances.
+
+The WGI are complementary to a large number of other efforts to construct more detailed measures of governance, often just for a single country. Users are also encouraged to consult the disaggregated individual indicators underlying the composite WGI scores to gain more insights into the particular areas of strengths and weaknesses identified by the data.
+
+The WGI do not reflect the official views of the Natural Resource Governance Institute, the Brookings Institution, the World Bank, its Executive Directors, or the countries they represent. The WGI are not used by the World Bank Group to allocate resources.",,https://datacatalog.worldbank.org/public-licenses#cc-by
+EG.USE.PCAP.KG.OE,CC BY-4.0,Energy use (kg of oil equivalent per capita),"Energy use refers to use of primary energy before transformation to other end-use fuels, which is equal to indigenous production plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport.","Energy use refers to use of primary energy before transformation to other end-use fuels, which is equal to indigenous production plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport.","IEA Energy Statistics Data Browser, International Energy Agency (IEA), uri: https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser, publisher: International Energy Agency (IEA), date accessed: 2025-03-25",Environment: Energy production & use,WDI,kg of oil equivalent per capita,Annual,1960-2023,Weighted average,"Methodology: Total energy use refers to the use of primary energy before transformation to other end-use fuels (such as electricity and refined petroleum products). It includes energy from combustible renewables and waste - solid biomass and animal products, gas and liquid from biomass, and industrial and municipal waste. Biomass is any plant matter used directly as fuel or converted into fuel, heat, or electricity. World Bank population estimates are used to calculate per capita data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Energy data are compiled by the International Energy Agency (IEA). IEA data for economies that are not members of the Organisation for Economic Co-operation and Development (OECD) are based on national energy data adjusted to conform to annual questionnaires completed by OECD member governments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data for combustible renewables and waste are often based on small surveys or other incomplete information and thus give only a broad impression of developments and are not strictly comparable across countries. The IEA reports include country notes that explain some of these differences. All forms of energy - primary energy and primary electricity - are converted into oil equivalents. A notional thermal efficiency of 33 percent is assumed for converting nuclear electricity into oil equivalents and 100 percent efficiency for converting hydroelectric power.","In developing economies growth in energy use is closely related to growth in the modern sectors - industry, motorized transport, and urban areas - but energy use also reflects climatic, geographic, and economic factors (such as the relative price of energy). Energy use has been growing rapidly in low- and middle-income economies, but high-income economies still use almost five times as much energy on a per capita basis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Governments in many countries are increasingly aware of the urgent need to make better use of the world's energy resources. Improved energy efficiency is often the most economic and readily available means of improving energy security and reducing greenhouse gas emissions.","The IEA makes these estimates in consultation with national statistical offices, oil companies, electric utilities, and national energy experts. The IEA occasionally revises its time series to reflect political changes, and energy statistics undergo continual changes in coverage or methodology as more detailed energy accounts become available. Breaks in series are therefore unavoidable.",,https://datacatalog.worldbank.org/public-licenses#cc-by
+EG.ELC.RNWX.ZS,CC BY-4.0,"Electricity production from renewable sources, excluding hydroelectric (% of total)","The share of electricity production from renewable sources of total electricity production. Electricity production from renewable sources, excluding hydroelectric, includes geothermal, solar, tides, wind, biomass, and biofuels.","The share of electricity production from renewable sources of total electricity production. Electricity production from renewable sources, excluding hydroelectric, includes geothermal, solar, tides, wind, biomass, and biofuels.","IEA Energy Statistics Data Browser, International Energy Agency (IEA), uri: https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser, publisher: International Energy Agency (IEA), date accessed: 2025-03-25",Environment: Energy production & use,WDI,% (share) of total electricity production,Annual,1960-2021,Weighted average using total electricity production as weights,"Methodology: Electricity production from renewable sources (% of total) is the share of electricity produced by geothermal, solar photovoltaic, solar thermal, tide, wind, industrial waste, municipal waste, primary solid biofuels, biogases, biogasoline, biodiesels, other liquid biofuels, nonspecified primary biofuels and waste, and charcoal in total electricity production which is the total number of Gigawattt-hours (GWh) generated by power plants separated into electricity plants and CHP plants. Hydropower is excluded. The International Energy Agency (IEA) compiles data on energy inputs used to generate electricity. IEA data for countries that are not members of the Organisation for Economic Co-operation and Development (OECD) are based on national energy data adjusted to conform to annual questionnaires completed by OECD member governments. In addition, estimates are sometimes made to complete major aggregates from which key data are missing, and adjustments are made to compensate for differences in definitions. The IEA makes these estimates in consultation with national statistical offices, oil companies, electric utilities, and national energy experts.
+Statistical concept(s): Electricity production is the total amount of electricity generated by power plants in an economy.","Renewable energy sources are essential for reducing greenhouse gas emissions and combating climate change. They help decrease dependence on fossil fuels, enhancing energy security and price stability. The sector also drives economic growth by creating jobs and attracting investment. Technological advancements in renewables support innovation in storage, smart grids, and sustainable infrastructure. Additionally, they improve energy access in remote areas, promoting social and economic development worldwide.","IEA occasionally revises its time series to reflect political changes. For example, the IEA has constructed historical energy statistics for countries of the former Soviet Union. In addition, energy statistics for other countries have undergone continuous changes in coverage or methodology in recent years as more detailed energy accounts have become available. Breaks in series are therefore unavoidable.",,https://datacatalog.worldbank.org/public-licenses#cc-by
+EN.GHG.CH4.ZG.AR5,CC BY-4.0,Methane (CH4) emissions (total) excluding LULUCF (% change from 1990),"Change of emissions (as %) of current year with respect to emissions in baseline year 1990 emissions of methane (CH4), one of the six Kyoto greenhouse gases (GHG), from the agriculture, energy, waste, and industrial sectors, excluding LULUCF.. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5). Negative values indicate that the emission level for that year is lower than the emissions level in 1990.","Change of emissions (as %) of current year with respect to emissions in baseline year 1990 emissions of methane (CH4), one of the six Kyoto greenhouse gases (GHG), from the agriculture, energy, waste, and industrial sectors, excluding LULUCF.. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5). Negative values indicate that the emission level for that year is lower than the emissions level in 1990.","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,%,Annual,1991-2023,Weighted average using 1990 emission levels as weights,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+
+
+?? =??×????
+
+
+
+Where:
+
+
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+
+
+
+A = Activity data (e.g., fuel consumption, production levels)
+
+
+
+EF = Emission factor (kg of pollutant per unit of activity)
+
+
+
+
+
+
+
+Depending on the pollutant, different tiers of complexity are used:
+
+
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+
+
+
+Tier 2 – Country/region-specific emission factors
+
+
+
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",,https://datacatalog.worldbank.org/public-licenses#cc-by
+SE.SEC.ENRR,CC BY-4.0,"School enrollment, secondary (% gross)","Gross enrollment ratio is the ratio of total enrollment, regardless of age, to the population of the age group that officially corresponds to the level of education shown. Secondary education completes the provision of basic education that began at the primary level, and aims at laying the foundations for lifelong learning and human development, by offering more subject- or skill-oriented instruction using more specialized teachers.","Gross enrollment ratio is the ratio of total enrollment, regardless of age, to the population of the age group that officially corresponds to the level of education shown. Secondary education completes the provision of basic education that began at the primary level, and aims at laying the foundations for lifelong learning and human development, by offering more subject- or skill-oriented instruction using more specialized teachers.","Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), type: Bulk file (csv), date accessed: 2025-09-22, date published: 2025-09",Education: Participation,WDI,% of population in the 5-year age group immediately following primary education,Annual,1970-2023,Weighted average,"Methodology: Gross enrollment ratio for secondary school is calculated by dividing the number of students enrolled in secondary education regardless of age by the population of the age group which officially corresponds to secondary education, and multiplying by 100. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data on education are collected by the UNESCO Institute for Statistics from official responses to its annual education survey. All the data are mapped to the International Standard Classification of Education (ISCED) to ensure the comparability of education programs at the international level. The current version was formally adopted by UNESCO Member States in 2011. Population data are drawn from the United Nations Population Division. Using a single source for population data standardizes definitions, estimations, and interpolation methods, ensuring a consistent methodology across countries and minimizing potential enumeration problems in national censuses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The reference years reflect the school year for which the data are presented. In some countries the school year spans two calendar years (for example, from September 2010 to June 2011); in these cases the reference year refers to the year in which the school year ended (2011 in the example).
+Statistical concept(s): Gross enrollment ratios indicate the capacity of each level of the education system, but a high ratio may reflect a substantial number of overage children enrolled in each grade because of repetition or late entry rather than a successful education system.","Secondary education acts as a critical intermediary that not only builds upon the foundational knowledge acquired in primary education but also equips students for various pathways, including immediate entry into the workforce, further education in postsecondary non-tertiary institutions, or advancement to higher education. This indicator assesses the aggregate participation rate in secondary education, reflecting the education system's capacity to enroll students within a designated age group.","Enrollment indicators are based on annual school surveys, but do not necessarily reflect actual attendance or dropout rates during the year. Also, the length of education differs across countries and can influence enrollment rates, although the International Standard Classification of Education (ISCED) tries to minimize the difference. For example, a shorter duration for primary education tends to increase the rate; a longer one to decrease it (in part because older children are more at risk of dropping out). Moreover, age at enrollment may be inaccurately estimated or misstated, especially in communities where registration of births is not strictly enforced.",,https://datacatalog.worldbank.org/public-licenses#cc-by
+HD.HCI.OVRL,CC BY-4.0,Human capital index (HCI) (scale 0-1),The HCI calculates the contributions of health and education to worker productivity. The final index score ranges from zero to one and measures the productivity as a future worker of child born today relative to the benchmark of full health and complete education.,The HCI calculates the contributions of health and education to worker productivity. The final index score ranges from zero to one and measures the productivity as a future worker of child born today relative to the benchmark of full health and complete education.,"Staff calculations based on the Human Capital Project, World Bank (WB), uri: https://openknowledge.worldbank.org/handle/10986/30498",Public Sector: Policy & institutions,WDI,Index (0-1),,2010-2020,Weighted average,"Methodology: The index is a summary measure of the amount of human capital that a child born today can expect to acquire by age 18, given the risks of poor health and poor education that prevail in the country where she lives. A full accounting of the HCI methodology is available on the World Bank’s Open Knowledge Repository.
+
+
+
+A signi?cant innovation is that the index measures the contribution of health and education to the productivity of individuals and countries, anchored in rigorous micro-econometric studies.
+
+
+
+Ranging between 0 and 1, the index takes the value 1 only if a child born today can expect to achieve full health (de?ned as no stunting and survival up to at least age 60) and achieve her formal education potential (de?ned as 14 years of high-quality school by age 18).
+
+
+
+A country’s score is its distance to the “frontier” of complete education and full health. If it scores 0.70 in the Human Capital Index, this indicates that the future earnings potential of children born today will be 70% of what they could have been with complete education and full health.
+
+
+
+The index can directly be linked to scenarios for the future income of countries as well as individuals. If a country has a score of 0.50, then future GDP per worker could be twice as high if the country reached the benchmark of complete education and full health.
+
+
+
+The index is presented as a country average and includes a breakdown by gender for countries where data is available. 
+
+
+Statistical concept(s): Composite Health & Education Measure","Human capital consists of the knowledge, skills, and health that people invest in and accumulate throughout their lives, enabling them to realize their potential as productive members of society. Investing in people through nutrition, health care, quality education, jobs and skills helps develop human capital, and this is key to ending extreme poverty and creating more inclusive societies.
+
+
+
+As noted in the World Development Report (WDR) 2019: The Changing Nature of Work, the frontier for skills is moving rapidly, bringing both opportunities and risks. There is mounting evidence that unless they strengthen their human capital, countries cannot achieve sustained, inclusive economic growth, will not have a workforce prepared for the more highly skilled jobs of the future, and will not compete e?ectively in the global economy. The cost of inaction on human capital development is going up.
+
+
+
+Finance Ministers who have been meeting to discuss human capital at recent Spring and Annual Meetings of the World Bank Group have emphasized the importance of human capital to the jobs and economic transformation agenda in countries at all stages of development.","Like all cross-country benchmarking exercises the HCI has limitations.
+
+
+
+Components of the HCI such as stunting and test scores are measured only infrequently in some countries, and not at all in others. Other components, like child and adult survival rates, are imprecisely estimated in countries where vital registries are incomplete or non-existent. Data on enrollment rates needed to estimate expected years of school often have many gaps and are reported with significant lags. As a result, the HCI for a country may rely on measures that are somewhat dated that do not reflect the most up-to-date state of human capital in a country.
+
+
+
+The test score harmonization exercise draws on test scores that come from different international testing programs and converts these into common units. However, the age of test takers and the subjects covered vary across testing programs. As a result, harmonized scores may reflect differences in sampling and cohorts participating in tests (Liu and Steiner-Khamsi 2020). Moreover, test scores may not accurately reflect the quality of the whole education system in a country to the extent that tests-takers are not representative of the population of all students. Reliable measures of the quality of tertiary education do not yet exist, despite the importance of higher education for human capital in a rapidly changing world. The index also does not explicitly capture other important aspect of human capital, such as noncognitive skills, although they may contribute directly and indirectly to human capital formation (see, for example, Lundberg 2018).
+
+
+
+One objective of the HCI is to call attention to these data shortcomings and to galvanize action to remedy them. Improving data will take time. In the interim, and recognizing these limitations, the HCI should be interpreted with caution. The HCI provides rough estimates of how current education and health will shape the productivity of future workers and not a finely graduated measure of small differences between countries.",,https://datacatalog.worldbank.org/public-licenses#cc-by
+SI.POV.LMIC,CC BY-4.0,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),Poverty headcount ratio at $4.20 a day is the percentage of the population living on less than $4.20 a day at 2021 international prices.,Poverty headcount ratio at $4.20 a day is the percentage of the population living on less than $4.20 a day at 2021 international prices.,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.",Poverty: Poverty rates,WDI,%,Annual,1963-2024,Population-weighted average,"Methodology: International comparisons of poverty estimates entail both conceptual and practical problems. Countries have different definitions of poverty, and consistent comparisons across countries can be difficult. Local poverty lines tend to have higher purchasing power in rich countries, where more generous standards are used, than in poor countries.
+
+
+
+
+
+
+
+Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world's poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using purchasing power parities (PPPs), was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in September 2022, when we adopted $3.00 as the international poverty line using the 2021 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. The $4.20 poverty line is derived from typical national poverty lines in countries classified as Lower Middle Income. The $8.30 poverty line is derived from typical national poverty lines in countries classified as Upper Middle Income.
+
+
+
+
+
+
+
+Early editions of World Development Indicators used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2021 consumption PPP estimates produced by the World Bank. The current extreme poverty line is set at $3.00 a day in 2021 PPP terms, which represents the mean of the poverty lines found in 15 of the poorest countries ranked by per capita consumption. The new poverty line maintains the same standard for extreme poverty - the poverty line typical of the poorest countries in the world - but updates it using the latest information on the cost of living in developing countries. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions.
+
+
+
+
+
+
+
+The statistics reported here are based on consumption data or, when unavailable, on income surveys.
+Statistical concept(s): Poverty headcount ratio at $4.20 a day refers to the percentage of a population whose consumption or income per day falls short of $4.20 a day (adjusted for purchasing power parity differences across countries). $4.20 is the typical poverty line of lower-middle-income countries.","The World Bank defines the poverty line of $4.20 (adjusted for purchasing power differences across countries) as a more relevant poverty line to monitor poverty in lower-middle-income countries. The value of $4.20 is the typical poverty line of lower-middle-income countries, which is the estimated minimum amount of money people in lower-middle-income countries need to cover their daily basic needs, including food, clothing, shelter, heath care, education, and so on. Policy dialogue can be facilitated with this poverty line, especially in middle-income countries.","Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,https://datacatalog.worldbank.org/public-licenses#cc-by
+SI.POV.NAHC,CC BY-4.0,Poverty headcount ratio at national poverty lines (% of population),"National poverty headcount ratio is the percentage of the population living below the national poverty line(s). National estimates are based on population-weighted subgroup estimates from household surveys. For economies for which the data are from EU-SILC, the reported year is the income reference year, which is the year before the survey year.","National poverty headcount ratio is the percentage of the population living below the national poverty line(s). National estimates are based on population-weighted subgroup estimates from household surveys. For economies for which the data are from EU-SILC, the reported year is the income reference year, which is the year before the survey year.","World Bank, Poverty and Inequality Platform. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country–specific) poverty lines., World Bank (WB), note: Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country–specific) poverty lines.",Poverty: Poverty rates,WDI,%,Annual,2000-2024,Population-weighted average,"Methodology: Poverty headcount ratio among the population is measured based on national (i.e. country-specific) poverty lines. A country may have a unique national poverty line or separate poverty lines for rural and urban areas, or for different geographic areas to reflect differences in the cost of living or sometimes to reflect differences in diets and consumption baskets.
+
+
+
+
+
+
+
+Poverty estimates at national poverty lines are computed from household survey data collected from nationally representative samples of households. These data must contain sufficiently detailed information to compute a comprehensive estimate of total household income or consumption (including consumption or income from own production), from which it is possible to construct a correctly weighted distribution of per capita consumption or income. 
+
+
+
+
+
+
+
+National poverty lines are the benchmark for estimating poverty indicators that are consistent with the country's specific economic and social circumstances. National poverty lines reflect local perceptions of the level and composition of consumption or income needed to be non-poor. The perceived boundary between poor and non-poor typically rises with the average income of a country and thus does not provide a uniform measure for comparing poverty rates across countries. While poverty rates at national poverty lines should not be used for comparing poverty rates across countries, they are appropriate for guiding and monitoring the results of country-specific national poverty reduction strategies. 
+
+
+
+
+
+
+
+Almost all national poverty lines in developing economies are anchored to the cost of a food bundle - based on the prevailing national diet of the poor - that provides adequate nutrition for good health and normal activity, plus an allowance for nonfood spending. National poverty lines must be adjusted for inflation between survey years to remain constant in real terms and thus allow for meaningful comparisons of poverty over time. Because diets and consumption baskets change over time, countries periodically recalculate the poverty line based on new survey data. In such cases the new poverty lines should be deflated to obtain comparable poverty estimates from earlier years. 
+
+
+
+
+
+
+
+This series only includes estimates that to the best of our knowledge are reasonably comparable over time for a country. For economies for which the data are from EU-SILC, the reported year is the income reference year, which is the year before the survey year. For all other economies, the year reported is the year in which the underlying household survey data were collected or, when the data collection period bridged two calendar years, the year in which data collection started.
+Statistical concept(s): National poverty headcount ratio refers to the percentage of a population whose consumption or income per day falls short of the national poverty line. National poverty lines vary by country and over time. In low- and middle-income countries, national poverty lines tend to be absolute poverty lines, thus reflecting the estimated minimum amount of money needed to cover basic needs. In high-income countries, national poverty lines tend to be relative poverty lines, thus reflecting the typical amount of money needed for an individual to afford the typical standard of living and without any restraints to participating fully in the societies in which they live. National poverty lines tend to grow with economic growth, especially in high-income or upper-middle-income countries.","The poverty rate as defined by national poverty lines reflects the share of the population that fails to meet the standard a country thinks is necessary to cover basic needs (typically in low- and middle-income countries) or afford a decent lifestyle (typically in high-income countries). SDG 1.2 aims to reduce by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions, by 2030.",,"This series only includes estimates that to the best of our knowledge are reasonably comparable over time for a country. Due to differences in estimation methodologies and poverty lines, estimates should not be compared across countries.",https://datacatalog.worldbank.org/public-licenses#cc-by
+GE.EST,CC BY-4.0,Government Effectiveness: Estimate,"The Worldwide Governance Indicators (WGI) are a research dataset summarizing the views on the quality of governance provided by a large number of enterprise, citizen and expert survey respondents in industrial and developing countries. Governance consists of the traditions and institutions by which authority in a country is exercised. This includes the process by which governments are selected, monitored and replaced; the capacity of the government to effectively formulate and implement sound policies; and the respect of citizens and the state for the institutions that govern economic and social interactions among them. The WGI measures six dimensions of governance: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. 
+
+Government Effectiveness captures perceptions and views of the quality of public services, the quality of the civil service and the degree of its independence from political pressures, the quality of policy formulation and implementation, and the credibility of the government's commitment to such policies.
+
+Estimate gives the country's score on the aggregate indicator, in units of a standard normal distribution, i.e. ranging from approximately -2.5 to 2.5.","The Worldwide Governance Indicators (WGI) are a research dataset summarizing the views on the quality of governance provided by a large number of enterprise, citizen and expert survey respondents in industrial and developing countries. Governance consists of the traditions and institutions by which authority in a country is exercised. This includes the process by which governments are selected, monitored and replaced; the capacity of the government to effectively formulate and implement sound policies; and the respect of citizens and the state for the institutions that govern economic and social interactions among them. The WGI measures six dimensions of governance: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. 
+
+Government Effectiveness captures perceptions and views of the quality of public services, the quality of the civil service and the degree of its independence from political pressures, the quality of policy formulation and implementation, and the credibility of the government's commitment to such policies.
+
+Estimate gives the country's score on the aggregate indicator, in units of a standard normal distribution, i.e. ranging from approximately -2.5 to 2.5.","Worldwide Governance Indicators, World Bank (WB), uri: www.govindicators.org",Public Sector: Policy & institutions,WDI,"Units of a standard normal distribution (between -2.5 and 2.5, approximately)",Annual,1996-2023,,,"Good governance is essential for development. It helps countries improve economic growth, build human capital, and strengthen social cohesion. Empirical evidence shows a strong causal relationship between better governance and better development outcomes. The Worldwide Governance Indicators (WGI) are designed to help researchers and analysts assess broad patterns in perceptions of governance across countries and over time. The WGI cover over 200 countries and territories, measuring six dimensions of governance starting in 1996: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. The aggregate indicators are based on several hundred individual underlying variables, taken from a wide variety of existing data sources. The data reflect the views on governance of survey respondents and public, private, and NGO sector experts worldwide.","The six composite WGI measures are useful as a tool for broad cross-country comparisons and for evaluating broad trends over time. However, they are often too blunt a tool to be useful in formulating specific governance reforms in particular country contexts. Such reforms, and evaluation of their progress, need to be informed by much more detailed and country-specific diagnostic data that can identify the relevant constraints on governance in particular country circumstances.
+
+The WGI are complementary to a large number of other efforts to construct more detailed measures of governance, often just for a single country. Users are also encouraged to consult the disaggregated individual indicators underlying the composite WGI scores to gain more insights into the particular areas of strengths and weaknesses identified by the data.
+
+The WGI do not reflect the official views of the Natural Resource Governance Institute, the Brookings Institution, the World Bank, its Executive Directors, or the countries they represent. The WGI are not used by the World Bank Group to allocate resources.",,https://datacatalog.worldbank.org/public-licenses#cc-by
+PV.EST,CC BY-4.0,Political Stability and Absence of Violence/Terrorism: Estimate,"The Worldwide Governance Indicators (WGI) are a research dataset summarizing the views on the quality of governance provided by a large number of enterprise, citizen and expert survey respondents in industrial and developing countries. Governance consists of the traditions and institutions by which authority in a country is exercised. This includes the process by which governments are selected, monitored and replaced; the capacity of the government to effectively formulate and implement sound policies; and the respect of citizens and the state for the institutions that govern economic and social interactions among them. The WGI measures six dimensions of governance: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. 
+
+Political Stability and Absence of Violence/Terrorism measures perceptions of the likelihood of political instability and/or politically-motivated violence, including terrorism. 
+
+Estimate gives the country's score on the aggregate indicator, in units of a standard normal distribution, i.e. ranging from approximately -2.5 to 2.5.","The Worldwide Governance Indicators (WGI) are a research dataset summarizing the views on the quality of governance provided by a large number of enterprise, citizen and expert survey respondents in industrial and developing countries. Governance consists of the traditions and institutions by which authority in a country is exercised. This includes the process by which governments are selected, monitored and replaced; the capacity of the government to effectively formulate and implement sound policies; and the respect of citizens and the state for the institutions that govern economic and social interactions among them. The WGI measures six dimensions of governance: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. 
+
+Political Stability and Absence of Violence/Terrorism measures perceptions of the likelihood of political instability and/or politically-motivated violence, including terrorism. 
+
+Estimate gives the country's score on the aggregate indicator, in units of a standard normal distribution, i.e. ranging from approximately -2.5 to 2.5.","Worldwide Governance Indicators, World Bank (WB), uri: www.govindicators.org",Public Sector: Policy & institutions,WDI,"Units of a standard normal distribution (between -2.5 and 2.5, approximately)",Annual,1996-2023,,,"Good governance is essential for development. It helps countries improve economic growth, build human capital, and strengthen social cohesion. Empirical evidence shows a strong causal relationship between better governance and better development outcomes. The Worldwide Governance Indicators (WGI) are designed to help researchers and analysts assess broad patterns in perceptions of governance across countries and over time. The WGI cover over 200 countries and territories, measuring six dimensions of governance starting in 1996: Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. The aggregate indicators are based on several hundred individual underlying variables, taken from a wide variety of existing data sources. The data reflect the views on governance of survey respondents and public, private, and NGO sector experts worldwide.","The six composite WGI measures are useful as a tool for broad cross-country comparisons and for evaluating broad trends over time. However, they are often too blunt a tool to be useful in formulating specific governance reforms in particular country contexts. Such reforms, and evaluation of their progress, need to be informed by much more detailed and country-specific diagnostic data that can identify the relevant constraints on governance in particular country circumstances.
+
+The WGI are complementary to a large number of other efforts to construct more detailed measures of governance, often just for a single country. Users are also encouraged to consult the disaggregated individual indicators underlying the composite WGI scores to gain more insights into the particular areas of strengths and weaknesses identified by the data.
+
+The WGI do not reflect the official views of the Natural Resource Governance Institute, the Brookings Institution, the World Bank, its Executive Directors, or the countries they represent. The WGI are not used by the World Bank Group to allocate resources.",,https://datacatalog.worldbank.org/public-licenses#cc-by
